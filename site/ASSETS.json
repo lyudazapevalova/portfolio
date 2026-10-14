@@ -1,0 +1,73 @@
+{
+  "note": "Real Figma exports. Intro product screens are not attributed to Lyuda; personal work is a separate section. Skeleton animation is a CSS demonstration.",
+  "items": [
+    {
+      "asset": "assets/pathway.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-443626"
+    },
+    {
+      "asset": "assets/practice.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2001-252968"
+    },
+    {
+      "asset": "assets/feedback.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2001-253070"
+    },
+    {
+      "asset": "assets/complete.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-443173"
+    },
+    {
+      "asset": "assets/streak.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-444188"
+    },
+    {
+      "asset": "assets/leaderboard.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-443298"
+    },
+    {
+      "asset": "assets/simulator.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-427440"
+    },
+    {
+      "asset": "assets/mentor.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-428475"
+    },
+    {
+      "asset": "assets/skeleton.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-426639"
+    },
+    {
+      "asset": "assets/upsell.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2001-101204"
+    },
+    {
+      "asset": "assets/quiz.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=3-107012"
+    },
+    {
+      "asset": "assets/purchases.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-33899"
+    },
+    {
+      "asset": "assets/localization.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-33981"
+    },
+    {
+      "asset": "assets/welcome.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-33878"
+    },
+    {
+      "asset": "assets/settings.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-29694"
+    },
+    {
+      "asset": "assets/faq.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-29731"
+    },
+    {
+      "asset": "assets/webapp.png",
+      "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-29787"
+    }
+  ]
+}

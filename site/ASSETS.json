@@ -68,6 +68,61 @@
     {
       "asset": "assets/webapp.png",
       "source": "https://www.figma.com/design/6lMftJZSpmFBIF6KYXNueg/Zapevalova-Lyuda-portfolio?node-id=146-29787"
+    },
+    {
+      "asset": "assets/lyudmila-portrait.jpeg",
+      "source": "User attachment photo_2026-09-24 17.56.24.jpeg, 14 October 2026",
+      "note": "Original user photo; CSS framing enlarges the face in the header only. Lavender and pink flowers are inline SVG."
+    },
+    {
+      "asset": "assets/tools.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-458697",
+      "note": "Original Figma screen 375 × 872. Card uses CSS clipping and raised original tab bar to match 375 × 812 peers; lightbox retains the full source."
+    },
+    {
+      "asset": "assets/work-books.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-52723",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-book-details.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-52746",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-book-library.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-52786",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-force-update.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2017-51575",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-soft-update.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2017-51635",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-store-en.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-53543",
+      "note": "Real screen export from the user-provided work page; grouped by task in the contribution gallery."
+    },
+    {
+      "asset": "assets/work-store-fr.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-54822",
+      "note": "Updated real Figma export: distinct localized layout or light welcome theme, per user request."
+    },
+    {
+      "asset": "assets/work-store-ar.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-56068",
+      "note": "Updated real Figma export: distinct localized layout or light welcome theme, per user request."
+    },
+    {
+      "asset": "assets/work-welcome.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-60631",
+      "note": "Updated real Figma export: distinct localized layout or light welcome theme, per user request."
     }
   ]
 }

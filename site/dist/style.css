@@ -146,7 +146,8 @@ html:has(body.case-page){scrollbar-gutter:stable}.lightbox.product-preview:focus
 #system .system-stage .screen{flex:0 1 230px}@media(max-width:760px){#system .system-stage .screen{flex:0 0 210px}}
 
 /* Mobile refinements, iteration 0.14 */
-.external-arrow{display:inline-block;width:1em;height:1em;margin-left:.28em;vertical-align:-.08em;flex-shrink:0;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.external-arrow{display:block;width:16px;height:16px;flex-shrink:0;stroke:currentColor;stroke-width:1;stroke-linecap:round;stroke-linejoin:round}
+#app a:has(> .external-arrow){display:inline-flex;align-items:center;gap:6px}
 .next-case-wrap{text-align:center}
 @media(max-width:760px){
   .work-gallery .task-stage:has(.screen:nth-child(2)):not(:has(.screen:nth-child(3))){justify-content:center}

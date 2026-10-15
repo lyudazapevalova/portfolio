@@ -8,8 +8,8 @@ function keepPrepositions(text){
   return text.split(/(<[^>]*>)/g).map(part=>part.startsWith('<')?part:part.replace(shortWord,'$1$2\u00a0').replace(shortWord,'$1$2\u00a0')).join('');
 }
 const t=(ru,en)=>keepPrepositions(lang==='ru'?ru:en);
-const href=(page,hash='')=>`${page}?lang=${lang}&v=14${hash}`;
-const externalArrow=`<svg class="external-arrow" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 16 16 4M4 4h12v12"/></svg>`;
+const href=(page,hash='')=>`${page}?lang=${lang}&v=15${hash}`;
+const externalArrow=`<svg class="external-arrow" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M3 25 25 3M19 3h6v6"/></svg>`;
 const external=(url,label)=>`<a href="${url}" target="_blank" rel="noopener noreferrer">${label} ${externalArrow}</a>`;
 const screen=(name,ru,en,options={})=>`<button class="screen" data-image="${name}" data-caption="${t(ru,en)}" ${options.crop?'data-crop="true"':''} ${options.mask?`data-skeleton-mask="${options.mask}"`:''} aria-label="${t('Увеличить: ','Enlarge: ')+t(ru,en)}"><span class="screen-surface ${options.crop?'is-cropped':''}" ${options.mask?`style="--skeleton-mask:url(assets/${options.mask})"`:''}><img src="assets/${name}.png${name==='tools'?'?v=10':''}" alt="${t(ru,en)}" loading="lazy" width="375" height="${name.startsWith('support-')?'816':'812'}">${options.mask?'<span class="skeleton-pulse" aria-hidden="true"></span>':''}</span></button>`;
 const img=(name,alt)=>`<img src="assets/${name}.png" alt="${alt}" width="375" height="812">`;

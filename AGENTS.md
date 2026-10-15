@@ -25,7 +25,7 @@ The server exposes the site at `http://127.0.0.1:8765/`. The other commands chec
 
 Use plain HTML, CSS, and browser JavaScript. Existing files are compact, with many rules and functions on single lines; keep edits focused and avoid unrelated reformatting. Use two spaces when adding multiline blocks. Prefer `const` unless reassignment is necessary, descriptive camelCase JavaScript names, and kebab-case CSS classes and asset filenames.
 
-Provide both Russian and English copy through the existing `t(ru, en)` helper. Preserve language query parameters, accessible labels, image proportions, keyboard interaction, and reduced-motion behavior. Reuse CSS variables for colors and layout values.
+Provide both Russian and English copy through the existing `t(ru, en)` helper. Keep short prepositions and conjunctions with the following word using the existing nonbreaking-space typography helper; check for hanging prepositions in current and future copy. Preserve language query parameters, accessible labels, image proportions, keyboard interaction, and reduced-motion behavior. Reuse CSS variables for colors and layout values. Keep all mockup outer corners consistent using `--mockup-radius` on gallery surfaces, images, and enlarged previews; use the shared screen helper for new mockups.
 
 ## Testing Guidelines
 

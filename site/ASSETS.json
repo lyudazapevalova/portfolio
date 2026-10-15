@@ -77,7 +77,7 @@
     {
       "asset": "assets/tools.png",
       "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-458697",
-      "note": "Original Figma screen 375 × 872. Card uses CSS clipping and raised original tab bar to match 375 × 812 peers; lightbox retains the full source."
+      "note": "Re-exported 2026-10-15: Figma frame 375 × 812; configured export 1125 × 2436. Full image, no CSS crop or tabbar composition."
     },
     {
       "asset": "assets/work-books.png",
@@ -123,6 +123,51 @@
       "asset": "assets/work-welcome.png",
       "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2020-60631",
       "note": "Updated real Figma export: distinct localized layout or light welcome theme, per user request."
+    },
+    {
+      "asset": "assets/support-settings.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2037-16771",
+      "note": "Exported 2026-10-15 from support flow section 2036:60761; raster 375 × 816, full image. v0.11: the gray final export row is clipped by .123% in both gallery and lightbox; file and proportions unchanged."
+    },
+    {
+      "asset": "assets/support-faq.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2037-16773",
+      "note": "Exported 2026-10-15 from support flow section 2036:60761; raster 375 × 816, full image. v0.11: the gray final export row is clipped by .123% in both gallery and lightbox; file and proportions unchanged."
+    },
+    {
+      "asset": "assets/support-request.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2037-16770",
+      "note": "Exported 2026-10-15 from support flow section 2036:60761; raster 375 × 816, full image. v0.11: the gray final export row is clipped by .123% in both gallery and lightbox; file and proportions unchanged."
+    },
+    {
+      "asset": "assets/support-chat.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2037-16772",
+      "note": "Exported 2026-10-15 from support flow section 2036:60761; raster 375 × 816, full image. v0.11: the gray final export row is clipped by .123% in both gallery and lightbox; file and proportions unchanged."
+    },
+    {
+      "asset": "assets/upsell-materials.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2039-52280",
+      "note": "Exported 2026-10-15. Figma PDF export rendered to PNG with pdftoppm; Full export retained; shared CSS crop 375:812 in gallery and preview."
+    },
+    {
+      "asset": "assets/upsell-trading.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2039-60233",
+      "note": "Exported 2026-10-15. Figma PDF export rendered to PNG with pdftoppm; Full export retained; shared CSS crop 375:812 in gallery and preview."
+    },
+    {
+      "asset": "assets/upsell-mentor.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=2039-61124",
+      "note": "Exported 2026-10-15. Full export retained; shared CSS crop 375:812 in gallery and preview."
+    },
+    {
+      "asset": "assets/skeleton-mentor.png",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-426931",
+      "note": "Exported 2026-10-15. Animated CSS mask uses the original skeleton placeholders."
+    },
+    {
+      "asset": "assets/skeleton-mentor-mask.svg",
+      "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-426931",
+      "note": "Code-native SVG mask matching the placeholder bounds of the real exported screen; CSS pulse 800ms alternate, reduced motion respected."
     }
   ]
 }

@@ -144,3 +144,21 @@ html:has(body.case-page){scrollbar-gutter:stable}.lightbox.product-preview:focus
 @media(prefers-reduced-motion:reduce){#app .screen{transition:none}#app .screen:hover{transform:none}.skeleton-pulse{animation:none;opacity:.2}}
 
 #system .system-stage .screen{flex:0 1 230px}@media(max-width:760px){#system .system-stage .screen{flex:0 0 210px}}
+
+/* Mobile refinements, iteration 0.14 */
+.external-arrow{display:inline-block;width:1em;height:1em;margin-left:.28em;vertical-align:-.08em;flex-shrink:0;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.next-case-wrap{text-align:center}
+@media(max-width:760px){
+  .work-gallery .task-stage:has(.screen:nth-child(2)):not(:has(.screen:nth-child(3))){justify-content:center}
+  .work-gallery .task-stage:has(.screen:nth-child(2)):not(:has(.screen:nth-child(3))) .screen{flex:0 1 var(--work-screen-width)}
+  .work-gallery .task-stage:has(.screen:nth-child(2)):not(:has(.screen:nth-child(3))) .screen img{height:auto;aspect-ratio:375/812}
+  .case-results{flex-direction:column;align-items:stretch}
+  .case-results h3{padding-top:0}
+  .case-results ul{flex:0 1 auto}
+  .chapter-nav{margin-left:-20px;margin-right:-20px}
+  .chapter-nav .inner{padding-left:20px;padding-right:20px;scroll-padding-inline:20px}
+  .chapter-nav a{flex-shrink:0}
+  .feature{height:auto;display:flex;flex-direction:column}
+  .feature-screens{position:relative;top:auto;right:auto;width:calc(100% - 40px);margin:30px 20px 40px}
+  .next-case{width:auto;max-width:100%}
+}

@@ -31,6 +31,8 @@
 
 ## Где смотреть
 
+Публичный сайт: https://lyudazapevalova.github.io/portfolio/ . Обновляется автоматически при push в main.
+
 Локальный предпросмотр: http://127.0.0.1:8765/ .
 Главная: `dist/index.html`. Кейс: `dist/finelo.html`.
 Скриншот главной: `previews/home-desktop.jpg`.

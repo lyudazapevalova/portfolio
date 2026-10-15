@@ -122,3 +122,13 @@
 - Скриншоты v13-* сохранены. node --check site/dist/app.js и git diff --check проходят. Проверки локальные, внешние ссылки и публикация не выполнялись.
 
 Уточнение после проверки v0.13: добавлены готовые интерфейсы рядом с обоими скелетонами. Порядок skeleton / simulator / skeleton-mentor / mentor. Desktop: четыре экрана по 230 px, без переполнения страницы. Mobile: четыре по 210 px, scrollWidth серии 944 px внутри контейнера, переполнения страницы нет. Готовый AI-чат открыт и закрыт: pulse hidden=true; скелетоны сохраняют пульсацию. Скриншот v13-system-pairs-ru-1440.png сохранён.
+
+## GitHub Pages — 15 октября 2026
+
+- GitHub Pages включён с build_type=workflow и HTTPS. Публикуется только site/dist; существующий Site ID не менялся.
+- Workflow .github/workflows/deploy-pages.yml: каждый push в main, без фильтров по путям, плюс workflow_dispatch для ручного запуска. Проверка JavaScript предшествует загрузке артефакта и деплою. Права contents:read, pages:write, id-token:write; конкурентные деплои упорядочены в группе pages.
+- YAML проверен Ruby Psych; node --check site/dist/app.js и git diff --check проходят.
+- Первый push с коммитом 5cf4cba автоматически запустил workflow 38731050555 и завершился успешно: https://github.com/lyudazapevalova/portfolio/actions/runs/38731050555 .
+- Публичный адрес https://lyudazapevalova.github.io/portfolio/ отвечает HTTP 200. Проверены также finelo.html в RU/EN, CSS, JavaScript, портрет, скелетон AI-чата и PDF резюме: HTTP 200 с подходящими Content-Type.
+- В браузере на публичном сайте проверены переход с главной в Finelo, переключение EN, открытие Tools и закрытие по фону, возврат «Все работы» с сохранением языка и /portfolio/ в адресе. На главной нет горизонтального переполнения и сломанных загруженных изображений. Дизайн и размеры относительно проверенной локальной v0.13 не менялись.
+- Скриншот опубликованной главной сохранён: site/previews/github-pages-live-ru.png. Повторный push с этой записью используется для проверки следующего автоматического запуска.

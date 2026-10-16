@@ -168,6 +168,365 @@
       "asset": "assets/skeleton-mentor-mask.svg",
       "source": "https://www.figma.com/design/Lg3I8QQ1hfHaaMh4Nc7YBi/finelo?node-id=1-426931",
       "note": "Code-native SVG mask matching the placeholder bounds of the real exported screen; CSS pulse 800ms alternate, reduced motion respected."
+    },
+    {
+      "asset": "assets/ozon-home.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5528",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 804,
+      "height": 7286
+    },
+    {
+      "asset": "assets/ozon-search-start.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13836-21782",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 740,
+      "height": 624
+    },
+    {
+      "asset": "assets/ozon-search-category.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13836-21837",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 740,
+      "height": 536
+    },
+    {
+      "asset": "assets/ozon-search.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5669",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-item.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5694",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-outfits.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-12334",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-outfit.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5919",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-brands.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5880",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-brand.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5979",
+      "note": "Refreshed Figma export at 2x for v19. Original proportions preserved.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-brand-products.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5854",
+      "note": "Ozon final interface / UI kit, assembled by Lyuda. Export proportions preserved; long screens use the same top viewport in gallery and lightbox."
+    },
+    {
+      "asset": "assets/ozon-kit-card.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13687-3630",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 396,
+      "height": 782
+    },
+    {
+      "asset": "assets/ozon-promo-block.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5572",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 740,
+      "height": 742
+    },
+    {
+      "asset": "assets/ozon-proto-start.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13666-2263",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 740,
+      "height": 652
+    },
+    {
+      "asset": "assets/ozon-proto-category.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13666-2310",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 740,
+      "height": 578
+    },
+    {
+      "asset": "assets/ozon-proto-results.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13687-3788",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 756,
+      "height": 2374
+    },
+    {
+      "asset": "assets/ozon-kit-modal.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13691-1374",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 804,
+      "height": 600
+    },
+    {
+      "asset": "assets/ozon-kit-tabbar.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13689-2565",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 864,
+      "height": 164
+    },
+    {
+      "asset": "assets/ozon-kit-follow.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13693-4127",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 304,
+      "height": 64
+    },
+    {
+      "asset": "assets/ozon-kit-following.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13693-4117",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 328,
+      "height": 64
+    },
+    {
+      "asset": "assets/ozon-kit-primary.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13693-4685",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 190,
+      "height": 112
+    },
+    {
+      "asset": "assets/ozon-kit-double.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13697-4996",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 192,
+      "height": 112
+    },
+    {
+      "asset": "assets/ozon-kit-secondary.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13696-5045",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 190,
+      "height": 88
+    },
+    {
+      "asset": "assets/ozon-kit-cart.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13687-3616",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 380,
+      "height": 64
+    },
+    {
+      "asset": "assets/ozon-kit-search-idle.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13691-2149",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 672,
+      "height": 88
+    },
+    {
+      "asset": "assets/ozon-kit-search-typing.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13691-2133",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 672,
+      "height": 88
+    },
+    {
+      "asset": "assets/ozon-kit-chip.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-6522",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 112,
+      "height": 64
+    },
+    {
+      "asset": "assets/ozon-kit-chip-selected.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-6524",
+      "note": "Updated export at 2x. Individual component exports exclude variant-set outlines; prototype uses fragments only.",
+      "width": 112,
+      "height": 64
+    },
+    {
+      "asset": "assets/ozon-research-related.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5556",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 788,
+      "height": 772
+    },
+    {
+      "asset": "assets/ozon-research-brands.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5633",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 772,
+      "height": 772
+    },
+    {
+      "asset": "assets/ozon-similar.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-6033",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-proto-main.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13664-1106",
+      "note": "Refreshed Figma export at 2x for v19. Original proportions preserved.",
+      "width": 804,
+      "height": 7196
+    },
+    {
+      "asset": "assets/ozon-proto-promo.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13692-2644",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-proto-category-view.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13692-1742",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 804,
+      "height": 3844
+    },
+    {
+      "asset": "assets/ozon-status.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5529",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 804,
+      "height": 100
+    },
+    {
+      "asset": "assets/ozon-tabbar.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5664",
+      "note": "Figma export at 2x. Original proportions preserved. Prototype excerpts and scrolled homepage use CSS viewports shared with enlarged previews.",
+      "width": 804,
+      "height": 164
+    },
+    {
+      "asset": "assets/ozon-proto-interesting.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13692-3414",
+      "width": 804,
+      "height": 1748,
+      "note": "Refreshed Figma export at 2x for v19. Original proportions preserved."
+    },
+    {
+      "asset": "assets/ozon-idea-skincare.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5573",
+      "width": 318,
+      "height": 252,
+      "note": "Refreshed Figma export at 2x for v19. Original proportions preserved."
+    },
+    {
+      "asset": "assets/ozon-idea-hiking.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5575",
+      "width": 318,
+      "height": 458,
+      "note": "Refreshed Figma export at 2x for v19. Original proportions preserved."
+    },
+    {
+      "asset": "assets/ozon-search-start.svg",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13836-21782",
+      "note": "Native outlined SVG export of the existing Figma node. Sharp inline preview; no changes to source design. Original PNG retained.",
+      "width": 370,
+      "height": 312
+    },
+    {
+      "asset": "assets/ozon-search-category.svg",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13836-21837",
+      "note": "Native outlined SVG export of the existing Figma node. Sharp inline preview; no changes to source design. Original PNG retained.",
+      "width": 370,
+      "height": 268
+    },
+    {
+      "asset": "assets/ozon-kit-card.svg",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13687-3630",
+      "note": "Native outlined SVG export of the existing Figma node. Sharp inline preview; no changes to source design. Original PNG retained.",
+      "width": 198,
+      "height": 391
+    },
+    {
+      "asset": "assets/ozon-home-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5528",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-home-preview-670.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5528",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=1340px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-search-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5669",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-item-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5694",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-outfit-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5919",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-brands-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5880",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-brand-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5979",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-brand-products-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13797-5854",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-proto-main-preview-718.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13664-1106",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=1436px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-proto-category-view-preview-0.png",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=13692-1742",
+      "note": "Lossless 804×1748 viewport cut from the original 2x PNG at y=0px. Same crop and optional shared chrome as the enlarged original; avoids rendering the full long raster for a thumbnail.",
+      "width": 804,
+      "height": 1748
+    },
+    {
+      "asset": "assets/ozon-logo.svg",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=14155-25932",
+      "note": "Complete outlined SVG export supplied by the owner: original blue background and white Ozon mark. Displayed proportionally as a small header logo; source design unchanged.",
+      "width": 1080,
+      "height": 475
+    },
+    {
+      "asset": "assets/ozon-wordmark.svg",
+      "source": "https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=14155-25932",
+      "note": "Derived from the supplied vector logo to match the owner’s screenshot: original four mark contours, blue #005BFF, rectangular background removed and viewBox fitted around the wordmark. Used as the single accessible H1 logo. Original Figma export retained.",
+      "width": 752,
+      "height": 165
     }
   ]
 }

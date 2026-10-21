@@ -153,7 +153,7 @@ Page: `1:154417`, тот же файл Finelo.
 ## 8. Остальные проекты
 
 - [Ozon Discovery Experience](https://www.behance.net/gallery/255222461/Ozon-Discovery-Experience-Mobile-E-commerce-Product). Исходный ресерч: сильный визуал уже есть; сократить путь до решений. Исправить фразу, которая создаёт впечатление заказа Ozon. Также есть в старом продуктовом портфолио.
-- **Иви** — Figma ещё не получена. По CV: сценарий офлайн-загрузки контента. Не придумывать решения и результаты.
+- **Иви** — 20 октября 2026 получены [Figma](https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=0-1), [бриф](https://docs.google.com/document/d/1zSnpMXNILB2HZzd-uko2LGCRJqJvVsbXIWMO_HU3_PQ/edit) и [Pathway](https://app.pthwy.ru/xXoqv). Разобраны семь страниц файла, прочитаны бриф, задания, план и отчёт теста на 13 участниках. Полная карта и ограничения — [IVI_BRIEF.md](IVI_BRIEF.md), структура — [IVI_PLAN.md](IVI_PLAN.md), текст — [IVI_CASE_RU.md](IVI_CASE_RU.md) v0.2. Pathway открыт как анкета; первичные ответы/записи не просмотрены. Интервью Люда не инициировала. Люда подтвердила: после теста макеты не менялись; спорные моменты требуют гипотез и исследования в реальном продукте.
 - [Звук: перенос музыки](https://www.behance.net/gallery/255116613/Music-transfer-feature-for-Zvuk-streaming-app). Исходный ресерч отмечает экраны переноса и встроенное Vimeo-видео. Сам видеофайл пока не сохранён.
 - [CinemaPark](https://www.behance.net/gallery/244309843/redizajn-sajta-sinema-park-Website-redesign). По ресерчу представлены desktop и мобильные макеты; это не проверка живой адаптивной вёрстки. Учебный статус указан.
 - [Plate Planner](https://www.behance.net/gallery/253168279/Meal-Planning-Grocery-Shopping-UXUI-Case-Study). Планирование питания, рецепты, порции/ингредиенты и список покупок. Мобильная версия в просмотренных материалах не обнаружена; это не доказательство её отсутствия в Figma.
@@ -228,3 +228,20 @@ Behance — более поздняя и короткая версия по сл
 ## Ozon — логотип, 16 октября 2026
 
 Люда прислала узел https://www.figma.com/design/jl2zUDZG9XLprIQKMKzBTd/?node-id=14155-25932. Прочитан полный фрейм на странице Presentation: синий фон и четыре векторных элемента знака. Просмотрен PNG-рендер, сохранён полный SVG как site/dist/assets/ozon-logo.svg. Figma-файл не редактировался.
+
+## Иви — визуальные ориентиры v35
+
+- Приоритеты: Figma 53:2135, повторно прочитаны как изображение; конспект sources/ivi/priority-hypotheses.md.
+- Акценты UI kit страницы 330:7311: #ea003d, #ff542e, #73a32f, #0171ff, #645ba3, #e6ae2e. Для светлых подложек предложены пастельные интерпретации, не официальные брендовые токены.
+- [Официальный дизайн-портал](https://design.ivi.ru/) ведёт на PDF ds.ivi.ru/files/LogotypeGuide.pdf, закрытый авторизацией. Полный брендбук не просмотрен.
+- [Пример логотипа, присланный Людой](https://www.sostav.ru/publication/ivi-obnovil-logotip-56393.html). На странице используется сохранённый оригинальный SVG из её Figma на розовой плашке.
+- [Референсы движения](https://project-animos.vercel.app/): рассмотрены layered cards и stack со смещением по глубине. Реализация своя, два различных экрана, короткое раскрытие, reduced motion. Чужие изображения не переносились.
+
+## Визуальные ориентиры v36
+
+- [Jitter: 3 Mobile Screens](https://jitter.video/template/3-mobile-screens/) — рассмотрена совместная композиция трёх экранов; реализована собственная последовательная маска раскрытия. Готовый ролик/ассеты не копировались.
+- [Apple: схема iPhone 17 Pro](https://support.apple.com/en-lamr/guide/iphone/iph6b52d7c95/ios) и [официальные чертежи](https://developer.apple.com/download/files/accessories/dimensional-drawings/iphone-17-pro.pdf) — ориентиры расположения боковых элементов; CSS-рамка остаётся стилизованной, не заявлена инженерно точной моделью.
+
+В v37 из Design экспортирован чистый главный экран 234:35792 для постера прототипа. Оригинальные подсказки/затемнение в 234:36310 сохранены; Figma не редактировалась. Файл и размеры зарегистрированы в site/ASSETS.json.
+
+V39: series node 234:37371 exported directly at 2x JPG (784x1696), used as ivi-series-sharp.jpg. Original 1x PNG retained; Figma unchanged.

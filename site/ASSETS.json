@@ -1,5 +1,5 @@
 {
-  "note": "Real Figma exports. Intro product screens are not attributed to Lyuda; personal work is a separate section. Skeleton animation is a CSS demonstration.",
+  "note": "Real Figma exports. Finelo intro product screens are not attributed to Lyuda; personal work is a separate section. Skeleton animation is a CSS demonstration.",
   "items": [
     {
       "asset": "assets/pathway.png",
@@ -527,6 +527,132 @@
       "note": "Derived from the supplied vector logo to match the owner’s screenshot: original four mark contours, blue #005BFF, rectangular background removed and viewBox fitted around the wordmark. Used as the single accessible H1 logo. Original Figma export retained.",
       "width": 752,
       "height": 165
+    },
+    {
+      "asset": "assets/ivi-home-hint.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-36310",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-download-settings.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37058",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-season.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37307",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-my.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37600",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 392,
+      "height": 848
+    },
+    {
+      "asset": "assets/ivi-downloads.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37657",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-episodes.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37714",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-next-episodes.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37691",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-delete.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37870",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-settings.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37955",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1692
+    },
+    {
+      "asset": "assets/ivi-smart-intro.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-38796",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-smart-settings.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-42905",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1688
+    },
+    {
+      "asset": "assets/ivi-smart-limit.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-38764",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1688
+    },
+    {
+      "asset": "assets/ivi-smart-downloads.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-38815",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 784,
+      "height": 1696
+    },
+    {
+      "asset": "assets/ivi-series.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37371",
+      "note": "Original Ivi case design, isolated PNG export. Existing brand UI kit supplied in the brief. No Figma edits.",
+      "width": 392,
+      "height": 848
+    },
+    {
+      "asset": "assets/ivi-logo-source.svg",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=123-9309",
+      "note": "Original outlined SVG export of NavbarLogoBlock. White lettering intended for dark backgrounds.",
+      "width": 55,
+      "height": 40
+    },
+    {
+      "asset": "assets/ivi-logo.svg",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=123-9309",
+      "note": "Light-page variant derived from source: white wordmark letters changed to brand pink #F30745; original gradient icon and white letter preserved. Vertical padding cropped in viewBox. Original export retained and Figma unchanged.",
+      "width": 55,
+      "height": 30
+    },
+    {
+      "asset": "assets/ivi-home.png",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-35792",
+      "note": "Original home screen without tutorial dimming or tooltip, exported at node default settings. Figma unchanged. Used as the prototype card poster.",
+      "width": 392,
+      "height": 848
+    },
+    {
+      "asset": "assets/ivi-series-sharp.jpg",
+      "source": "https://www.figma.com/design/zCYpvH5zpPqkJbDcQybCXy?node-id=234-37371",
+      "note": "Direct 2x JPG export of the original series screen to replace the 1x cover rendering. Source Figma unchanged; original PNG retained.",
+      "width": 784,
+      "height": 1696
     }
   ]
 }
